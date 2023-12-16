@@ -13,6 +13,9 @@ Este no es un Curso "Receta", desde el dia 1 quiero dejar bien claro que la idea
 Para aquellos que no me conocen, comparto un poco de lo que aprendi despues de trabajar para Intel, Wizeline, Amazon y Microsoft, los ingenieros de software que van iniciando su carrera, y que en empresas tipo "Top Tech", FAANG, Big 4, etc.. se considera que ya son buenos programadores desde el nivel 1 en el dia 1, sin embargo para subir a los siguientes niveles se espera que demuestren independencia, desarrollo de conocimiento rapído, capacidad de analisis, y diseño de sistemas. En el primer nivel de ingenieria de software es normal que se espere que todavía se le diga al ingeniero que debe hacer, e incluso tener supervisión de ingenieros mas "senior", a medida que se crece, se gana esa independencia, y se tiene mas impacto y menos supervisión. Este curso va a dirigido a personas que quieran poner a prueba, y desarrollar esa independencia.
 
 ## Links
+
 Creación del documento de diseño Clase 9 / 25
+
 https://sequencediagram.org/
+
 https://www.drawio.com/
